@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+
+# Dependências do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do editor
+*.swp
+*.swo
+.vscode/
+
+# Ambiente
+.env
