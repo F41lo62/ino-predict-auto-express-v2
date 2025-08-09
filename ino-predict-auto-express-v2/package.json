@@ -1,0 +1,10 @@
+{
+    "name": "ino-predict-auto-express-v2",
+    "version": "1.0.0",
+    "description": "Plataforma de estratégias inteligentes para o jogo Aviator e apostas online - versão 2",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "dependencies": {}
+}
